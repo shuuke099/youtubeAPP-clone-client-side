@@ -1,3 +1,3 @@
-![](src/images/1.jpg)
+![](src/images/1.png)
 
 
